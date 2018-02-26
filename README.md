@@ -27,6 +27,7 @@ If you also want to switch to Atom, you can achieve similar functionality to thi
 See [GitHub releases](https://github.com/code-tree/imitation/releases) for latest version (gedit 3.8+) or the [historic releases](http://code-tree.github.io/imitation/) (gedit 2 - 3.7).
 
 ## Install
+* Arch Linux users: install [imitation-gedit-plugin-git](https://aur.archlinux.org/packages/imitation-gedit-plugin-git/) package in AUR.
 1. Install the GSettings schema (needed for config)
   1. Locate your system's gschema dir (e.g. /usr/share/glib-2.0/schemas)
   1. Place "org.gnome.gedit.plugins.imitation.gschema.xml" in there
